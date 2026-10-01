@@ -17,3 +17,5 @@ A curated collection of my professional credentials, technical certificates, and
 ## Data Analytics
 
 * [Excel to Power BI | Knowledge Accelerators](xl-power-bi.png) *(April 2025)*
+
+* [Getting Started w/ Google Analytics | Google](da-google.pdf) *(October 2026)*
